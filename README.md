@@ -12,7 +12,7 @@
   # Third Branch
   - Feature-payment-system = This feature branch handle payment getway system.
 
-# Our Colaboratores
+# Our Collaborators
 - Rituraj021
 - Suraj23
 - vineet002
